@@ -65,7 +65,7 @@ seo:
       enable: true
     sitelink:
       enable: true
-      searchUrl: https://www.stargazerproject.xyz/search?q={search_term_string}
+      searchUrl: https://www.stargazerproject.xyz/search?q={stargazerproject}
   # this function still under development because JAVASCRIPT HEAP MEMORY and my device is 8GB RAM
   img:
     enable: true
