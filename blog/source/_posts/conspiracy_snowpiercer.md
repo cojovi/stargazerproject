@@ -1,5 +1,5 @@
 ---
-title: Conspiracy Theory Chronicles Part 1 : Willy Wonka & Snowpiercer
+title: Conspiracy Theory Chronicles Part 1 Willy Wonka & Snowpiercer
 date: 2024-01-31 10:01:19
 tags: conspiracy
 categories: articles
