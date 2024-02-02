@@ -4,7 +4,7 @@ date: 2024-01-29 01:58:55
 tags: Conspiracy
 categories: Politics
 feature: yes
-cover: [![Image depicting enhanced sports](images/doped.png)](https://i.imgur.com/PwJGP01b.png)
+cover: https://i.imgur.com/PwJGP01b.png
 ---
 
 # The Enhanced Games: Redefining Athletic Excellence
