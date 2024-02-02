@@ -1,10 +1,10 @@
 ---
-title: Area 51 A Nexus of Alien Conspiracy Theories
+title: Enhagned Games, From Steroids to Stardom - the New Era of Superhuman Sports Spectacles
 date: 2024-01-29 01:58:55
 tags: Conspiracy
-categories: Conspiracy
+categories: Politics
 feature: yes
-cover: /Users/cojovi/Github/stargazer/test/doped.webp
+cover: ![Image depicting enhanced sports](images/doped.png)
 ---
 
 # The Enhanced Games: Redefining Athletic Excellence
