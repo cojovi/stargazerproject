@@ -1,5 +1,5 @@
 ---
-title: Enhagned Games - From Steroids to Stardom - The Enhanced Games and the New Era of Superhuman Sports Spectacles
+title: Enhagned Games - From Steroids to Stardom - the New Era of Superhuman Sports Spectacles
 date: 2024-01-29 01:58:55
 tags: Conspiracy
 categories: Conspiracy
