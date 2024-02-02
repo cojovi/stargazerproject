@@ -4,7 +4,7 @@ date: 2024-01-29 01:58:55
 tags: Conspiracy
 categories: Conspiracy
 feature: yes
-cover: <a href="https://imgur.com/PwJGP01"><img src="https://i.imgur.com/PwJGP01.png" title="source: imgur.com" /></a>
+cover: https://i.imgur.com/PwJGP01.png
 ---
 
 # The Enhanced Games: Redefining Athletic Excellence
