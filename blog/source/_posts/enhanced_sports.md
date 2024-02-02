@@ -4,7 +4,7 @@ date: 2024-01-29 01:58:55
 tags: Conspiracy
 categories: Conspiracy
 feature: yes
-cover: /Users/cojovi/Github/stargazer/blog/public/doped.webp
+cover: <a href="https://imgur.com/PwJGP01"><img src="https://i.imgur.com/PwJGP01.png" title="source: imgur.com" /></a>
 ---
 
 # The Enhanced Games: Redefining Athletic Excellence
