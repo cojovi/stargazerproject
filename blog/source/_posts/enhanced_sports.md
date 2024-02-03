@@ -6,6 +6,7 @@ categories: Politics
 feature: yes
 cover: https://i.imgur.com/PwJGP01b.png
 ---
+<a href="https://imgur.com/PwJGP01"><img src="https://i.imgur.com/PwJGP01.png" title="source: cojovi.com" /></a>
 
 # The Enhanced Games: Redefining Athletic Excellence
 
