@@ -5,6 +5,10 @@ tags: ai
 categories: coding
 feature: yes
 cover: https://i.imgur.com/SMsCh6t.png
+og:title: "IllaBuilder The Game-Changer in AI Application Development"
+og:description: "Unleashing Creativity with IllaBuilder"
+og:image: "https://i.imgur.com/SMsCh6t.png"
+og:url: "https://www.stargazerproject.xyz/post/easy_ai_agents" 
 ---
 # IllaBuilder: A Whirlwind Romance with AI Application Development
 
