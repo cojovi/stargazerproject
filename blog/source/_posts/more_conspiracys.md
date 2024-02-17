@@ -1,10 +1,9 @@
 ---
 title: Election Security A Rollercoaster of Drama and Suspense
 date: 2024-02-16 18:41:52
-tags: Election Security
+tags: ElectionSecurity
 category: Politics
-feature: true
-cover: [https://i.imgur.com/MtYXUQn.jpg](https://imgur.com/a/Ef2P8i4)
+cover: https://i.imgur.com/MtYXUQn.jpg
 ---
 
 # Election Security: A Rollercoaster of Drama and Suspense
