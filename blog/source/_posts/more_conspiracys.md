@@ -1,8 +1,9 @@
 ---
 title: "Election Security: A Rollercoaster of Drama and Suspense"
-date: 2024-02-16
-tags: ["Election Security", "2024 Presidential Election", "FBI Warning"]
-category: "Politics"
+date: 2024-02-16 10:01:19
+tags: Election Security
+category: Politics
+feature: true
 cover: https://imgur.com/a/Ef2P8i4
 ---
 
