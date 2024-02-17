@@ -1,5 +1,5 @@
 ---
-title: "Election Security: A Rollercoaster of Drama and Suspense"
+title: Election Security: A Rollercoaster of Drama and Suspense
 date: 2024-02-16 10:01:19
 tags: Election Security
 category: Politics
