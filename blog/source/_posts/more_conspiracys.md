@@ -1,12 +1,10 @@
 ---
 title: Election Security A Rollercoaster of Drama and Suspense
 date: 2024-02-16 18:41:52
-tags: ElectionSecurity
-category: Politics
 cover: https://i.imgur.com/MtYXUQn.jpg
 ---
 
-# Election Security: A Rollercoaster of Drama and Suspense
+Election Security: A Rollercoaster of Drama and Suspense
 
 In a world where binge-watching political dramas is the norm, the real-life twists and turns of election security are giving those TV shows a run for their money. The Federal Bureau of Investigation (FBI) has recently sent out a nationwide memo to secretaries of state, warning of "extremely alarming" threats. It seems our next election might have more suspense than the season finale of your favorite series.
 
