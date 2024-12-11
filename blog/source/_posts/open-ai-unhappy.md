@@ -10,7 +10,7 @@ tags:
 - Pricing
 - Developer Tools
 categories: ai
-cover: https://i.imgur.com/ifk8QYi.jpg
+cover: https://github.com/cojovi/stargazerproject/blob/main/test/blog.png?raw=true
 ---
 
 <a href="https://github.com/cojovi/stargazerproject/blob/main/test/blog.png?raw=true"><img src="https://github.com/cojovi/stargazerproject/blob/main/test/blog.png?raw=true" title="source: www.stargazerproject.xyz" /></a>
