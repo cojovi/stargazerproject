@@ -3,7 +3,7 @@ title: "The AI Olympics: Will Enhanced Digital Coaches Engineer the Next Generat
 date: "2024-12-15"
 tags: ["AI", "Sports", "Enhanced Games", "Athletics", "Conspiracy", "Human Augmentation"]
 categories: ["Technology", "Sports", "Conspiracy"]
-cover:https://github.com/cojovi/stargazerproject/blob/main/test/starblog_banner.png?raw=true
+cover: https://github.com/cojovi/stargazerproject/blob/main/test/starblog_banner.png?raw=true
 ---
 
 # The AI Olympics: A Peek Into the Future of Beyond-Human Athletics
