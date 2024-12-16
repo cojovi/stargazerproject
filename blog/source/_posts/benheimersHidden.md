@@ -3,7 +3,7 @@ title: "Barbenheimer’s Hidden Handlers: Are Summer Blockbusters Distracting Us
 date: "2024-12-15"
 tags: ["Hollywood", "UFO", "Disclosure", "Barbenheimer"]
 categories: ["Entertainment", "Conspiracy", "UFOs"]
-cover: https://imgur.com/ScPgDH4
+cover: https://github.com/cojovi/stargazerproject/blob/main/test/gazerbanner.png?raw=true
 ---
 
 # Barbenheimer’s Hidden Handlers: Is Hollywood Using Summer Blockbusters to Distract from Real-World UFO Disclosures?
