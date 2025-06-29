@@ -3,7 +3,7 @@ title: about
 date: 2025-06-29 14:00:00
 ---
 
-# Welcome to **StargazerProject.xyz**: Where Curiosity Meets Code!
+# Welcome to **StargazerProject.xyz** Where Curiosity Meets Code!
 
 Hey there, stargazers, code-slingers, conspiracy chasers, and midnight tinkerers! You’ve just crash-landed on **StargazerProject.xyz**—the digital playground where *anything* with a power button (or a good theory) is fair game. We blend bleeding-edge AI, DIY wizardry, and the occasional “are-we-alone?” debate into one glorious technicolor mess—and we invite you to jump right in. :contentReference[oaicite:0]{index=0}
 
