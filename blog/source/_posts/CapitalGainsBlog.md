@@ -14,7 +14,7 @@ cover: https://images.unsplash.com/photo-1526318472351-bc6c749d21fc?auto=format&
 
 <!-- Template structure adapted from an earlier Hexo post. :contentReference[oaicite:9]{index=9} -->
 
-<a href="https://images.unsplash.com/photo-1563271443-d69a317a9018?auto=format&fit=crop&w=1350&q=80"><img src="https://images.unsplash.com/photo-1563271443-d69a317a9018?auto=format&fit=crop&w=1350&q=80" title="source: Unsplash" /></a>
+<a href="https://github.com/cojovi/stargazerproject/blob/main/test/stock_blog_1.png?raw=true"><img src="https://github.com/cojovi/stargazerproject/blob/main/test/stock_blog_1.png?raw=true" title="source: Unsplash" /></a>
 
 # **Capitol Gains: The High-Stakes War to Ban Congress from Stock Trading**
 
@@ -32,6 +32,7 @@ The 2012 STOCK Act banked on sunlight: lawmakers could keep trading, they just h
 COVID-era briefings turned the failure into farce—senators privately dumped millions while publicly calming markets, and **no one was charged**. Transparency didn’t rebuild trust; it weaponized outrage. <!-- :contentReference[oaicite:11]{index=11} -->
 
 ---
+<a href="https://github.com/cojovi/stargazerproject/blob/main/test/stock_blog_2.png?raw=true"><img src="https://github.com/cojovi/stargazerproject/blob/main/test/stock_blog_2.png?raw=true" title="source: Unsplash" /></a>
 
 ## **2. Two Rival Fixes, One Philosophical Split**
 
@@ -72,9 +73,11 @@ Reformers link the trading ban to a broader crackdown on Washington’s money lo
 
 Trump’s public whipping of Hawley spooked GOP leadership; without a floor vote, the HONEST Act likely dies unless stapled to a “must-pass” bill. Still, the sheer breadth of voter anger means **some** version is inevitable. The only question is *when* and *how strong*. <!-- :contentReference[oaicite:17]{index=17} -->
 
+<a href="https://github.com/cojovi/stargazerproject/blob/main/test/stock_blog_3.png?raw=true"><img src="https://github.com/cojovi/stargazerproject/blob/main/test/stock_blog_3.png?raw=true" title="source: Unsplash" /></a>
 ---
 
 ## **Final Take**
 
 Congress tried “trust us” transparency and got a decade of scandals. Now voters want a **bright-line ban**, and senators must decide whether to serve Wall Street, K Street, or Main Street. Whatever compromise emerges, one truth is clear: public patience with self-policing is out of stock.
+
 
