@@ -9,7 +9,7 @@ tags:
 - Congress
 - Stock Trading Ban
 categories: politics
-cover: https://images.unsplash.com/photo-1526318472351-bc6c749d21fc?auto=format&fit=crop&w=1350&q=80
+cover: https://github.com/cojovi/stargazerproject/blob/main/test/capital.png
 ---
 
 <!-- Template structure adapted from an earlier Hexo post. :contentReference[oaicite:9]{index=9} -->
@@ -79,5 +79,6 @@ Trump’s public whipping of Hawley spooked GOP leadership; without a floor vote
 ## **Final Take**
 
 Congress tried “trust us” transparency and got a decade of scandals. Now voters want a **bright-line ban**, and senators must decide whether to serve Wall Street, K Street, or Main Street. Whatever compromise emerges, one truth is clear: public patience with self-policing is out of stock.
+
 
 
