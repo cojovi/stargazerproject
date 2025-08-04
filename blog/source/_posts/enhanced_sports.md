@@ -4,7 +4,7 @@ date: 2024-02-02 09:30:55
 tags: Enhanced
 categories: Politics
 feature: yes
-cover: ![Image depicting enhanced sports](/blog/doped.png)
+cover: /blog/doped.png
 ---
 
 # The Enhanced Games: Redefining Athletic Excellence

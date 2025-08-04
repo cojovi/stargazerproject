@@ -9,7 +9,7 @@ tags:
 - Congress
 - Stock Trading Ban
 categories: politics
-cover: https://images.unsplash.com/photo-1526318472351-bc6c749d21fc?auto=format&fit=crop&w=1350&q=80
+cover: https://github.com/cojovi/stargazerproject/blob/main/test/capital.png?auto=format&fit=crop&w=1350&q=80
 ---
 
 <!-- Template structure adapted from an earlier Hexo post. :contentReference[oaicite:9]{index=9} -->
