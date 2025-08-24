@@ -165,6 +165,19 @@ include:
 exclude:
 ignore:
 
+# RSS Feed
+## Generate Atom 1.0 or RSS 2.0 feed
+feed:
+  enable: true
+  type: rss2
+  path: rss.xml
+  limit: 20
+  content: false
+  content_limit: 140
+  content_limit_delim: ' '
+  order_by: -date
+  autodiscovery: true
+
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
