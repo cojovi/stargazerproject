@@ -1,0 +1,46 @@
+name: New Blog Post
+description: Generate a Hexo post from this issue
+title: "[Blog] <short topic here>"
+labels: ["blog"]
+body:
+  - type: input
+    id: topic
+    attributes:
+      label: Topic
+      description: Short paragraph describing the article focus.
+      placeholder: e.g., “Roof leak detection tech in Texas heat…”
+    validations:
+      required: true
+  - type: input
+    id: tone
+    attributes:
+      label: Tone
+      placeholder: e.g., “direct, witty, Texan straight-shooter”
+    validations:
+      required: true
+  - type: input
+    id: tags
+    attributes:
+      label: Tags (comma-separated)
+      placeholder: roofing, infrared, home-maintenance
+  - type: input
+    id: category
+    attributes:
+      label: Category
+      placeholder: Roofing Tech
+  - type: input
+    id: min_words
+    attributes:
+      label: Min words
+      placeholder: "900"
+  - type: dropdown
+    id: draft
+    attributes:
+      label: Draft?
+      options: ["false", "true"]
+      default: 0
+  - type: input
+    id: model
+    attributes:
+      label: Model (optional)
+      placeholder: gpt-4o-mini or llama3.1:8b (if using LOCAL_LLM_URL)
