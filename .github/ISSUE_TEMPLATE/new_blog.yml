@@ -7,17 +7,15 @@ body:
     id: topic
     attributes:
       label: Topic
-      description: Short paragraph describing the article focus.
-      placeholder: e.g., “Roof leak detection tech in Texas heat…”
-    validations:
-      required: true
+      description: One short paragraph describing the article focus.
+      placeholder: “Roof leak detection tech in Texas heat…”
+    validations: { required: true }
   - type: input
     id: tone
     attributes:
       label: Tone
-      placeholder: e.g., “direct, witty, Texan straight-shooter”
-    validations:
-      required: true
+      placeholder: “direct, witty, Texan straight-shooter”
+    validations: { required: true }
   - type: input
     id: tags
     attributes:
@@ -43,4 +41,4 @@ body:
     id: model
     attributes:
       label: Model (optional)
-      placeholder: gpt-4o-mini or llama3.1:8b (if using LOCAL_LLM_URL)
+      placeholder: gpt-4o-mini or llama3.1:8b
