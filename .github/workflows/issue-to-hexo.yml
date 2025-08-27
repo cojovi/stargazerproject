@@ -1,0 +1,62 @@
+name: Issue → Hexo Post
+
+on:
+  issues:
+    types: [opened, edited, labeled]
+
+permissions:
+  contents: write
+
+jobs:
+  build-post:
+    if: >
+      (github.event.action == 'opened' || github.event.action == 'edited' || github.event.action == 'labeled') &&
+      contains(join(github.event.issue.labels.*.name, ','), 'blog')
+    runs-on: ubuntu-latest
+    env:
+      TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      LOCAL_LLM_URL: ${{ secrets.LOCAL_LLM_URL }}
+      GIT_AUTHOR_NAME: ${{ secrets.GIT_AUTHOR_NAME }}
+      GIT_AUTHOR_EMAIL: ${{ secrets.GIT_AUTHOR_EMAIL }}
+      # Adjust if your Hexo posts live elsewhere:
+      POSTS_DIR: source/_posts
+      DEFAULT_MODEL: gpt-4o-mini
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r scripts/requirements.txt
+
+      - name: Generate post
+        id: gen
+        env:
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          REPO: ${{ github.repository }}
+        run: |
+          python scripts/generate_post.py
+
+      - name: Configure git author
+        run: |
+          git config user.name  "${GIT_AUTHOR_NAME:-github-actions[bot]}"
+          git config user.email "${GIT_AUTHOR_EMAIL:-41898282+github-actions[bot]@users.noreply.github.com}"
+
+      - name: Commit & push
+        run: |
+          git add "${POSTS_DIR}"
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "blog: add ${{ steps.gen.outputs.slug }} (closes #${{ github.event.issue.number }})"
+            git push
+          fi
