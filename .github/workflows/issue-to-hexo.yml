@@ -2,23 +2,19 @@ name: Issue → Hexo Post
 
 on:
   issues:
-    types: [opened, edited, labeled]
-  workflow_dispatch:
+    types: [labeled]     # only run when a label is added
+  workflow_dispatch:      # manual run button (optional)
 
 permissions:
   contents: write
-  issues: write
 
 jobs:
   build-post:
-    if: >
-      (github.event.action == 'opened' || github.event.action == 'edited' || github.event.action == 'labeled') &&
-      contains(join(github.event.issue.labels.*.name, ','), 'blog')
     runs-on: ubuntu-latest
     env:
       POSTS_DIR: blog/source/_posts
       SCRIPTS_DIR: blog/source/scripts
-      DEFAULT_MODEL: gpt-4o-mini
+      DEFAULT_MODEL: gpt-5
       TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
       OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
       LOCAL_LLM_URL: ${{ secrets.LOCAL_LLM_URL }}
@@ -26,20 +22,14 @@ jobs:
       GIT_AUTHOR_EMAIL: ${{ secrets.GIT_AUTHOR_EMAIL }}
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Debug repo layout
-        run: |
-          echo "PWD: $(pwd)"
-          ls -la
-          echo "Posts dir → $POSTS_DIR"
-          echo "Scripts dir → $SCRIPTS_DIR"
-          ls -la "$SCRIPTS_DIR" || true
-          mkdir -p "$POSTS_DIR"
+      # Only proceed when the label added is exactly 'blog'
+      - name: Guard: require 'blog' label
+        if: ${{ github.event.label.name != 'blog' }}
+        run: echo "Label '${{ github.event.label.name }}' ≠ 'blog' → exit." && exit 0
 
-      - name: Setup Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
@@ -49,14 +39,12 @@ jobs:
           pip install -r "$SCRIPTS_DIR/requirements.txt"
 
       - name: Generate post
-        id: gen
         env:
-          ISSUE_TITLE: ${{ github.event.issue.title }}
-          ISSUE_BODY: ${{ github.event.issue.body }}
+          ISSUE_TITLE:  ${{ github.event.issue.title }}
+          ISSUE_BODY:   ${{ github.event.issue.body }}
           ISSUE_NUMBER: ${{ github.event.issue.number }}
-          REPO: ${{ github.repository }}
-        run: |
-          python "$SCRIPTS_DIR/generate_post.py"
+          REPO:         ${{ github.repository }}
+        run: python "$SCRIPTS_DIR/generate_post.py"
 
       - name: Configure git author
         run: |
@@ -65,19 +53,6 @@ jobs:
 
       - name: Commit & push
         run: |
+          mkdir -p "${POSTS_DIR}"
           git add "${POSTS_DIR}"
-          if git diff --cached --quiet; then
-            echo "No changes to commit."
-          else
-            git commit -m "blog: add ${{ steps.gen.outputs.slug }} (closes #${{ github.event.issue.number }})"
-            git push
-          fi
-
-      - name: Comment on issue
-        run: |
-          body="✅ Published: \`${{ steps.gen.outputs.slug }}.md\` in \`${{ env.POSTS_DIR }}\`"
-          curl -s -H "Authorization: token ${{ github.token }}" \
-            -X POST \
-            -H "Accept: application/vnd.github+json" \
-            https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.issue.number }}/comments \
-            -d "{\"body\":\"${body}\"}"
+          git diff --cached --quiet || { git commit -m "blog: add (issue #${{ github.event.issue.number }})" && git push; }
