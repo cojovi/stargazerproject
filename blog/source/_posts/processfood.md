@@ -1,20 +1,14 @@
 ---
-title: Weaponized Food: How Big Food Turned Your Pantry Into a WMD
+title: "Weaponized Food: How Big Food Turned Your Pantry Into a WMD"
 date: 2025-09-01
-tags:
-  - comedy
-  - satire
-  - food industry
-  - processed foods
-  - health
-categories:
-  - Comedy
+tags: AI, Deep Learning, Media Partnership
+categories: Technology, Innovation, Collaboration
 feature: yes
 cover: https://flic.kr/p/2rqWhbq
 ---
 
-> “You are what you eat.”  
-> Well, if that’s true, America is now 78% high-fructose corn syrup, 12% sawdust, and 10% regret.
+“You are what you eat.”  
+Well, if that’s true, America is now 78% high-fructose corn syrup, 12% sawdust, and 10% regret.
 
 Let’s talk about the *real* bioweapon that’s been sitting quietly in your pantry since 1972: **processed food.** That’s right—while you were out panic-buying toilet paper and triple-masking in your car, *the real villain* was already in your kitchen, looking innocent in its colorful wrapper and lying about being “whole grain.”
 
@@ -101,4 +95,5 @@ Bon appétit, comrades. 🍽️
 ---
 
 *Disclaimer: This blog was written after consuming three cups of black coffee, one rage smoothie, and a granola bar made of quinoa, regret, and unprocessed truth.*
+
 
