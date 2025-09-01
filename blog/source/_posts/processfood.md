@@ -1,5 +1,6 @@
+---
 title: Weaponized Food: How Big Food Turned Your Pantry Into a WMD
-date: 2025-09-01 12:00:00
+date: 2025-09-01
 tags:
   - comedy
   - satire
@@ -8,6 +9,8 @@ tags:
   - health
 categories:
   - Comedy
+feature: yes
+cover: https://flic.kr/p/2rqWhbq
 ---
 
 > “You are what you eat.”  
@@ -98,3 +101,4 @@ Bon appétit, comrades. 🍽️
 ---
 
 *Disclaimer: This blog was written after consuming three cups of black coffee, one rage smoothie, and a granola bar made of quinoa, regret, and unprocessed truth.*
+
