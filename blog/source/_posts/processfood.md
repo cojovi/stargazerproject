@@ -14,7 +14,7 @@ Let’s talk about the *real* bioweapon that’s been sitting quietly in your pa
 
 ## Welcome to the Processed Apocalypse
 
-<img src="https://flic.kr/p/2rqWhbq" alt="stargazerproject.xyz">
+[url=https://flic.kr/p/2rqWhbq][img]https://live.staticflickr.com/65535/54759798124_b6265d53db_b.jpg[/img][/url][url=https://flic.kr/p/2rqWhbq]food1[/url] by [url=https://www.flickr.com/photos/198676341@N04/]Cody Viveiros[/url], on Flickr
 
 Big Food has officially gone full Dr. Evil. Only instead of sharks with laser beams, they gave us toaster strudels with diabetes in every bite.
 
@@ -32,7 +32,7 @@ Crack open a box of anything in the middle aisles of your grocery store and you�
 
 These companies are using more *preservatives* than a taxidermist on meth. The only thing they’re preserving is their quarterly profits and your slow descent into metabolic chaos.
 
-<img src="https://flic.kr/p/2rqWhbF" alt="stargazerproject.xyz">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/198676341@N04/54759798139/in/dateposted-public/" title="food2"><img src="https://live.staticflickr.com/65535/54759798139_10dc77b439.jpg" width="500" height="500" alt="food2"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## Meet the Offenders: America’s Favorite Serial Killers (Cereal Killers?)
 
@@ -48,7 +48,7 @@ These companies are using more *preservatives* than a taxidermist on meth. The o
 
 Obesity, diabetes, heart disease, depression—all rising faster than a sourdough starter in a quarantine kitchen. And what’s Big Food doing about it?
 
-<img src="https://flic.kr/p/2rqWhbv" alt="stargazerproject.xyz">
+[url=https://flic.kr/p/2rqWhbv][img]https://live.staticflickr.com/65535/54759798129_955b0341ac_b.jpg[/img][/url][url=https://flic.kr/p/2rqWhbv]food3[/url] by [url=https://www.flickr.com/photos/198676341@N04/]Cody Viveiros[/url], on Flickr
 
 **Selling you the cure, of course.** Enter “low-fat” processed snacks, “diet” sodas, “keto-friendly” chips made with sadness and air. They give you the disease and then slap a different label on the same poison and sell it back to you in pastel packaging.
 
@@ -95,5 +95,6 @@ Bon appétit, comrades. 🍽️
 ---
 
 *Disclaimer: This blog was written after consuming three cups of black coffee, one rage smoothie, and a granola bar made of quinoa, regret, and unprocessed truth.*
+
 
 
