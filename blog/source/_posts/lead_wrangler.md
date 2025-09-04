@@ -3,6 +3,7 @@ title: "Wrangling Chaos Building Lead Wrangler the Address-First CRM"
 date: 2025-09-04
 tags: CRM, Construction
 categories: Technology, Innovation
+feature: no
 cover: https://live.staticflickr.com/65535/54764797712_57d8b8313d_b.jpg
 ---
 
