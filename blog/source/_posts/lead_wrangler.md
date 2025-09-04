@@ -1,14 +1,9 @@
 ---
-title: Wrangling Chaos: Building Lead Wrangler, the Address-First CRM
+title: "Wrangling Chaos Building Lead Wrangler the Address-First CRM"
 date: 2025-09-04
-tags:
-  - CRM
-  - AI
-  - Construction
-  - Sales
-categories:
-  - - Product
-  - - Lead Wrangler
+tags: CRM, Construction
+categories: Technology, Innovation
+cover: https://live.staticflickr.com/65535/54764797712_57d8b8313d_b.jpg
 ---
 
 It seems like construction doesn’t just build houses—it builds chaos. Between door-knocking, juggling leads, and managing jobs, keeping track of it all can feel like herding cats with a lasso. Enter **Lead Wrangler**, a modern, **address-first CRM** built to wrangle leads, keep pipelines clean, and actually *work* for field crews.  
