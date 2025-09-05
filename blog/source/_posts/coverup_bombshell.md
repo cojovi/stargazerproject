@@ -40,8 +40,3 @@ Let’s be real: Cathy’s past is a buffet of wild allegations—drug-fueled mi
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/198676341@N04/54766446256/in/dateposted-public/" title="unnamed (2)"><img src="https://live.staticflickr.com/65535/54766446256_ee7cee038e_b.jpg" width="1024" height="1024" alt="unnamed (2)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ---
-
-So there you have it. Cathy O’Brien, formerly a cornerstone of MK-Ultra conspiracies, resurfaces to tell us the Epstein files aren’t the real story — mind control is. And of course, she's been “100% vindicated.” Perfectly normal.
-
-Want help crafting a response blog debunking or comparing her claims to mainstream reporting? I’m here to help—but only if you’re ready to wade through the rabbit hole.
-
