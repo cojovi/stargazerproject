@@ -10,6 +10,7 @@ tags:
   - occult-bloodlines
 categories:
   - Culture
+cover: https://i.ticketweb.com/i/00/00/50/15/21/Original.jpg
 ---
 
 *If your last name has a “von” in it and your day job is “talking into a microphone,” congratulations: the internet now assumes you’re a level-nine wizard with a punch card for Langley.*
