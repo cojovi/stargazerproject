@@ -6,7 +6,7 @@ categories: [Media]
 tags: [jimmy-kimmel, late-night-tv, consequences, media-accountability, television]
 description: "How Jimmy Kimmel's pattern of spreading hate on his late-night show led to his professional downfall and the harsh reality of consequences in media."
 keywords: jimmy kimmel, late night television, media consequences, talk show controversy, television accountability
-cover: /test/2025/09/jimmy-kimmel-talk-shit-get-hit-demise/hero.jpg
+cover: /test/jimmy.jpg
 ---
 
 <!-- alt: Empty late-night TV studio with single spotlight illuminating abandoned host desk amid darkened audience seating -->
