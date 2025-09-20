@@ -1,13 +1,12 @@
 ---
-title: "Jimmy Kimmel's 'Talk Shit Get Hit' Demise: When Hate Backfires"
-date: 2025-09-19T00:00:00-07:00
-updated: 2025-09-19T00:00:00-07:00
+title: "Jimmy Kimmels Talk Shit Get Hit Demise When Hate Backfires"
+date: 2025-09-19
+updated: 2025-09-19 
 categories: [Media]
 tags: [jimmy-kimmel, late-night-tv, consequences, media-accountability, television]
 description: "How Jimmy Kimmel's pattern of spreading hate on his late-night show led to his professional downfall and the harsh reality of consequences in media."
 keywords: jimmy kimmel, late night television, media consequences, talk show controversy, television accountability
 cover: /test/2025/09/jimmy-kimmel-talk-shit-get-hit-demise/hero.jpg
-permalink: jimmy-kimmel-talk-shit-get-hit-demise
 ---
 
 <!-- alt: Empty late-night TV studio with single spotlight illuminating abandoned host desk amid darkened audience seating -->
