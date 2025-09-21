@@ -3,7 +3,7 @@ title: "Gunfire at ABC10: Sacramento Shooting Follows Kimmel Suspension Protests
 date: 2025-09-20
 tags: [politics, media, free-speech, radicalism]
 keywords: abc, shooting, media consequences, talk show controversy, television accountability
-cover: /test/abc.png
+cover: https://github.com/cojovi/stargazerproject/blob/main/test/abc.png?raw=true
 ---
 
 You know things are getting weird in this country when a TV station is shot at the day after people protest a late-night show host’s suspension. That's where we are—and yes, “radical leftist attorney arrested for shooting ABC station” sounds like it came out of a dystopian script, not real life. But here we are.
