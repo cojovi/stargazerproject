@@ -10,7 +10,7 @@
 #! ---------------------------------------------------------------
 site:
   subtitle: Discover Cutting-Edge Tech, AI News & Hacks, Speak your mind freely
-  author: Stargazer Project.xyz
+  author: Protocol Sentinel
   nick: Enthusiast of the coding arts, conspiracy theorist, debater
   description: Explore the latest in technology, learn about AI hacks and exploits, coding tutorials, and feel welcome to my online ai tools for free.
   link: ''
@@ -105,7 +105,7 @@ socials:
 site_meta:
   cdn: cn
   favicon: https://i.imgur.com/dAvbe5M.png
-  description: 'Stargazer Project : a goldmine in the darkness'
+  description: 'Protocol Sentinel : a goldmine in the darkness'
   keywords: 'Tech, Electronics, AI, exploits'
   author: 'Digital Predator'
 
@@ -361,8 +361,8 @@ injects:
 footer_links:
   - title: Pish Posh
     links:
-      - title: Stargazer Project
-        url: www.stargazerproject.xyz
+      - title: Protocol Sentinel
+        url: www.protocolsentinel.com
       - title: Visit Beefy
         url: www.beefthroat.com
       - title: Visit Cojovi

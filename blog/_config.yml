@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Star Gazer
+title: Protocol Sentinel
 subtitle: 'We Blog, We Talk, Be Share!'
 description: 'Tech, Software, Coding, Builds'
 keywords:
@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://blog.stargazerproject.xyz
+url: https://blog.protocolsentinel.com
 permalink: /post/:title.html
 permalink_defaults:
 pretty_urls:

@@ -9,10 +9,10 @@ data:
     description: cojovi.com. The creators playground
     link: https://cojovi.com/
     label: links-badge-vip
-  - nick: StargazerProject.xyz
+  - nick: ProtocolSentinel.com
     avatar: https://i.imgur.com/mwN2zlk.png
-    description: Stargazer Project. Welcome to the enigmatic online universe
-    link: https://StargazerProject.xyz
+    description: Protocol Sentinel. Welcome to the enigmatic online universe
+    link: https://ProtocolSentinel.com
     label: links-badge-tech	
   - nick: beefthroat.com
     avatar: https://i.imgur.com/eZm89eH.png

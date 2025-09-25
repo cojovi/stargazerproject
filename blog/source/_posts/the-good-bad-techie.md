@@ -35,7 +35,7 @@ Hey there, fellow tech enthusiasts! Today, we're diving deep into the world of d
 
 ## Netlify - The User-Friendly Virtuoso
 
-<a href="https://stargazerproject.xyz/qrzb8bV"><img src="https://i.imgur.com/qrzb8bV.png" title="source: stargazerproject.xyz" /></a>
+<a href="https://protocolsentinel.com/qrzb8bV"><img src="https://i.imgur.com/qrzb8bV.png" title="source: protocolsentinel.com" /></a>
 
 ### Pros:
 - **Excellent Documentation:** Even if you're a beginner, Netlify’s docs make you feel like a pro.

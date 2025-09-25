@@ -1,7 +1,7 @@
 # RSS Feed Setup Documentation
 
 ## Overview
-Successfully installed and configured the hexo-generator-feed plugin for the Stargazer Project blog to provide RSS feed functionality.
+Successfully installed and configured the hexo-generator-feed plugin for the Protocol Sentinel blog to provide RSS feed functionality.
 
 ## Installation Steps Completed
 
@@ -32,7 +32,7 @@ feed:
 
 ### 3. Configuration Details
 - **Feed Type**: RSS 2.0 (more widely supported than Atom)
-- **Output File**: `rss.xml` (accessible at `https://blog.stargazerproject.xyz/rss.xml`)
+- **Output File**: `rss.xml` (accessible at `https://blog.protocolsentinel.com/rss.xml`)
 - **Post Limit**: 20 most recent posts
 - **Content**: Summary only (140 character limit) for faster loading
 - **Autodiscovery**: Enabled for automatic feed detection by RSS readers
@@ -55,7 +55,7 @@ feed:
 ## Usage
 Users can now subscribe to the blog using any RSS reader by adding:
 ```
-https://blog.stargazerproject.xyz/rss.xml
+https://blog.protocolsentinel.com/rss.xml
 ```
 
 ## Next Steps

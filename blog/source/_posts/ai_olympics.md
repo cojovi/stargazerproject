@@ -11,7 +11,7 @@ cover: https://github.com/cojovi/stargazerproject/blob/main/test/starblog_banner
 ## Introduction
 Picture a future where human athletes don’t just train with the help of a humble stopwatch and an overcaffeinated coach yelling from the sidelines. Instead, they are guided by cutting-edge Artificial Intelligence (AI) programs that predict everything from optimal sleep schedules to the exact moment a sprinter should inhale before a final dash. These digital coaches would be so advanced they’d make your Fitbit look like a quaint 19th-century pocket watch. But let’s not just marvel at the shiny tech—some believe these “Enhanced AI Coaches” might be products of secret societies, forging a new breed of superhuman athletes who push beyond the current limits of flesh and bone. Sounds bonkers? Let’s dive in.
 
-<img src="https://github.com/cojovi/stargazerproject/blob/main/test/starblog_1_img.png?raw=truehttps://github.com/cojovi/stargazerproject/blob/main/test/starblog_1_img.png?raw=true" alt="stargazer project">
+<img src="https://github.com/cojovi/stargazerproject/blob/main/test/starblog_1_img.png?raw=truehttps://github.com/cojovi/stargazerproject/blob/main/test/starblog_1_img.png?raw=true" alt="protocol sentinel">
 
 ## Sculpting the Cyborg Sprinter: How AI Coaches Are Redefining Athlete Training
 For decades, coaches relied on intuition, personal experience, and perhaps a pinch of luck (and a lot of screaming) to get their athletes into prime shape. Fast forward to our techno-utopia, and digital trainers are crunching terabytes of data per second. They analyze an athlete’s biomechanics, diet, muscle fiber composition, emotional states, and even how many spicy tacos they can handle before training. The result? Personalized training plans that make today’s one-size-fits-all routines look like lazy scribbles on a napkin.
@@ -21,7 +21,7 @@ But what happens when AI coaches start updating strategies on the fly, adapting 
 ## Secret Sports Cabals: Are Elite Groups Engineering Future Records Behind the Scenes?
 Of course, this wouldn’t be a proper 21st-century scenario without a dash of conspiracy. Some whisper that clandestine networks—think Ivy League-educated illuminati or cryptic billionaires trading secrets over soy lattes—are pulling the strings behind these AI-driven coach programs. By quietly controlling which algorithms get deployed and which athletes get access to them, they could engineer star competitors who break records like toothpicks.
 
-<img src="https://github.com/cojovi/stargazerproject/blob/main/test/starblog_2_img.png?raw=truehttps://github.com/cojovi/stargazerproject/blob/main/test/starblog_2_img.png?raw=true" alt="stargazer project">
+<img src="https://github.com/cojovi/stargazerproject/blob/main/test/starblog_2_img.png?raw=truehttps://github.com/cojovi/stargazerproject/blob/main/test/starblog_2_img.png?raw=true" alt="protocol sentinel">
 
 Imagine a secret council deciding which sprinter’s neural implants get the next upgrade, or which swimmer’s AI coach unlocks a “hydrodynamic boost” mode. With enough influence, this hidden brain trust could sculpt an entirely new era of superhuman performers who run, jump, and swim far beyond the boundaries of what we call “natural.” Yes, it’s a wild thought, but so was the idea of streaming your cat videos from space once upon a time.
 
@@ -33,7 +33,7 @@ Sports have always been about human struggle and triumph over our biological lim
 ## The Dawn of the Hybrid Athlete: Where Do We Go From Here?
 If this trajectory continues, the stadiums of tomorrow might host hybrid athletes coached not by humans, but by data-driven entities that never sleep, never tire, and never forget a misstep. Records would tumble like dominoes, and we’d have to rethink what it means to be a champion. Is it the human who wins, or the algorithm behind them?
 
-<img src="https://github.com/cojovi/stargazerproject/blob/main/test/starblog_3_img.png?raw=truehttps://github.com/cojovi/stargazerproject/blob/main/test/starblog_3_img.png?raw=true" alt="stargazer project">
+<img src="https://github.com/cojovi/stargazerproject/blob/main/test/starblog_3_img.png?raw=truehttps://github.com/cojovi/stargazerproject/blob/main/test/starblog_3_img.png?raw=true" alt="protocol sentinel">
 
 Perhaps we’ll celebrate a new species of ultra-athletes who inspire humanity to redefine its potential. Or maybe we’ll find ourselves missing the charm of good old-fashioned coaches, red-faced and yelling encouragement in the rain. In any case, the AI Olympics beckon, and we can only hope our secret elites are kind enough to share their code.
 

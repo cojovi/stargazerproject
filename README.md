@@ -1,10 +1,10 @@
 <img src="https://i.imgur.com/mwN2zlk.png" alt="Hexo logo" width="300" height="300" align="right" />
 
-# stargazerproject.xyz
+# protocolsentinel.com
 
 > A fast, simple & powerful blog framework, powered by [Node.js](https://nodejs.org).
 
-[Website](https://stargazerproject.xyz) |
+[Website](https://protocolsentinel.com) |
 
 ## Features
 

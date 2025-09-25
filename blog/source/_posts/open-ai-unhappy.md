@@ -13,7 +13,7 @@ categories: ai
 cover: https://github.com/cojovi/stargazerproject/blob/main/test/blog.png?raw=true
 ---
 
-<a href="https://github.com/cojovi/stargazerproject/blob/main/test/blog.png?raw=true"><img src="https://github.com/cojovi/stargazerproject/blob/main/test/blog.png?raw=true" title="source: www.stargazerproject.xyz" /></a>
+<a href="https://github.com/cojovi/stargazerproject/blob/main/test/blog.png?raw=true"><img src="https://github.com/cojovi/stargazerproject/blob/main/test/blog.png?raw=true" title="source: www.protocolsentinel.com" /></a>
 
 # OpenAI’s New Pro Tier: A Disappointment at Ten Times the Price
 
@@ -24,7 +24,7 @@ If youre like me—an AI enthusiast eager to explore the latest innovations—yo
 
 The jump from $20/month to $200/month is staggering. For a tenfold price hike, you’d expect revolutionary features or at least clear value propositions. Instead, the benefits feel marginal, leaving users like me scratching our heads.
 
-<a href="https://live.staticflickr.com/65535/54197209149_3dd9da3b5a_w.jpg"><img src="https://live.staticflickr.com/65535/54197209149_3dd9da3b5a_w.jpg" title="source: www.stargazerproject.xyz" /></a>
+<a href="https://live.staticflickr.com/65535/54197209149_3dd9da3b5a_w.jpg"><img src="https://live.staticflickr.com/65535/54197209149_3dd9da3b5a_w.jpg" title="source: www.protocolsentinel.com" /></a>
 
 ### **No API Access for o1-Pro**
 
@@ -34,7 +34,7 @@ The Pro tier touted the advanced o1-pro model, but there’s a catch: it’s not
 
 Sora, OpenAI’s new platform, launched with fanfare but quickly hit a wall. Just hours after going live, sign-ups were halted due to overwhelming demand. As a Pro member paying $200/month, I assumed I’d get priority access—but I’m still locked out. What’s the point of paying for the highest tier if it doesn’t come with real perks?
 
-<a href="https://live.staticflickr.com/65535/54197194323_e4d2832a68_w.jpg"><img src="https://live.staticflickr.com/65535/54197194323_e4d2832a68_w.jpg" title="source: www.stargazerproject.xyz" /></a>
+<a href="https://live.staticflickr.com/65535/54197194323_e4d2832a68_w.jpg"><img src="https://live.staticflickr.com/65535/54197194323_e4d2832a68_w.jpg" title="source: www.protocolsentinel.com" /></a>
 
 ## **A Rushed Rollout**
 
@@ -53,7 +53,7 @@ I’m not alone in my disappointment. Across forums and social media, users are 
 
 ## **Final Thoughts**
 
-<a href="https://live.staticflickr.com/65535/54197194318_8b70ed4161_w.jpg"><img src="https://live.staticflickr.com/65535/54197194318_8b70ed4161_w.jpg" title="source: www.stargazerproject.xyz" /></a>
+<a href="https://live.staticflickr.com/65535/54197194318_8b70ed4161_w.jpg"><img src="https://live.staticflickr.com/65535/54197194318_8b70ed4161_w.jpg" title="source: www.protocolsentinel.com" /></a>
 
 OpenAI has revolutionized the AI space, but this Pro tier launch risks alienating their most loyal users. At $200/month, we expect more—more features, more access, and more transparency. Until OpenAI addresses these issues, I can’t recommend the Pro plan to others.
 
