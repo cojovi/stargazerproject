@@ -16,7 +16,7 @@ site:
   link: ''
   language: en
   multi_language: false
-  logo: https://i.imgur.com/mwN2zlk.png
+  logo: https://github.com/cojovi/stargazerproject/blob/main/test/7.png?raw=true
   avatar: https://i.imgur.com/9K6Noxf.png
   beian:
     number: ''
@@ -104,7 +104,7 @@ socials:
 #! ---------------------------------------------------------------
 site_meta:
   cdn: cn
-  favicon: https://i.imgur.com/dAvbe5M.png
+  favicon: https://github.com/cojovi/stargazerproject/blob/main/test/7.png?raw=true
   description: 'Protocol Sentinel : a goldmine in the darkness'
   keywords: 'Tech, Electronics, AI, exploits'
   author: 'Digital Predator'
